@@ -1,2 +1,5 @@
 # hello-world
-quick demo
+
+Hi there!
+
+some quick edits to show editing
